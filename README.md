@@ -1,29 +1,44 @@
-# LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview!
+IyBMZWV0Q29kZS1Tb2x1dGlvbnMKQ29sbGVjdGlvbiBvZiBMZWV0Q29kZSBx
+dWVzdGlvbnMgdG8gYWNlIHRoZSBjb2RpbmcgaW50ZXJ2aWV3IQoKPCEtLS1M
+ZWV0Q29kZSBUb3BpY3MgU3RhcnQtLT4KIyBMZWV0Q29kZSBUb3BpY3MKIyMg
+QXJyYXkKfCAgfAp8IC0tLS0tLS0gfAp8IFswMDczLXNldC1tYXRyaXgtemVy
+b2VzXShodHRwczovL2dpdGh1Yi5jb20vY2hhZGlmeS9MZWV0Q29kZS1Tb2x1
+dGlvbnMvdHJlZS9tYXN0ZXIvMDA3My1zZXQtbWF0cml4LXplcm9lcykgfAp8
+IFswMjM4LXByb2R1Y3Qtb2YtYXJyYXktZXhjZXB0LXNlbGZdKGh0dHBzOi8v
+Z2l0aHViLmNvbS9jaGFkaWZ5L0xlZXRDb2RlLVNvbHV0aW9ucy90cmVlL21h
+c3Rlci8wMjM4LXByb2R1Y3Qtb2YtYXJyYXktZXhjZXB0LXNlbGYpIHwKfCBb
+MDkyMS1zcGlyYWwtbWF0cml4LWlpaV0oaHR0cHM6Ly9naXRodWIuY29tL2No
+YWRpZnkvTGVldENvZGUtU29sdXRpb25zL3RyZWUvbWFzdGVyLzA5MjEtc3Bp
+cmFsLW1hdHJpeC1paWkpIHwKIyMgTWF0cml4CnwgIHwKfCAtLS0tLS0tIHwK
+fCBbMDA3My1zZXQtbWF0cml4LXplcm9lc10oaHR0cHM6Ly9naXRodWIuY29t
+L2NoYWRpZnkvTGVldENvZGUtU29sdXRpb25zL3RyZWUvbWFzdGVyLzAwNzMt
+c2V0LW1hdHJpeC16ZXJvZXMpIHwKfCBbMDkyMS1zcGlyYWwtbWF0cml4LWlp
+aV0oaHR0cHM6Ly9naXRodWIuY29tL2NoYWRpZnkvTGVldENvZGUtU29sdXRp
+b25zL3RyZWUvbWFzdGVyLzA5MjEtc3BpcmFsLW1hdHJpeC1paWkpIHwKIyMg
+U2ltdWxhdGlvbgp8ICB8CnwgLS0tLS0tLSB8CnwgWzA5MjEtc3BpcmFsLW1h
+dHJpeC1paWldKGh0dHBzOi8vZ2l0aHViLmNvbS9jaGFkaWZ5L0xlZXRDb2Rl
+LVNvbHV0aW9ucy90cmVlL21hc3Rlci8wOTIxLXNwaXJhbC1tYXRyaXgtaWlp
+KSB8CiMjIEhhc2ggVGFibGUKfCAgfAp8IC0tLS0tLS0gfAp8IFswMDczLXNl
+dC1tYXRyaXgtemVyb2VzXShodHRwczovL2dpdGh1Yi5jb20vY2hhZGlmeS9M
+ZWV0Q29kZS1Tb2x1dGlvbnMvdHJlZS9tYXN0ZXIvMDA3My1zZXQtbWF0cml4
+LXplcm9lcykgfAojIyBQcmVmaXggU3VtCnwgIHwKfCAtLS0tLS0tIHwKfCBb
+MDIzOC1wcm9kdWN0LW9mLWFycmF5LWV4Y2VwdC1zZWxmXShodHRwczovL2dp
+dGh1Yi5jb20vY2hhZGlmeS9MZWV0Q29kZS1Tb2x1dGlvbnMvdHJlZS9tYXN0
+ZXIvMDIzOC1wcm9kdWN0LW9mLWFycmF5LWV4Y2VwdC1zZWxmKSB8CjwhLS0t
+TGVldENvZGUgVG9waWNzIEVuZC0tPgo=
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
-| [0073-set-matrix-zeroes](https://github.com/chadify/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
-| [0238-product-of-array-except-self](https://github.com/chadify/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
-| [0921-spiral-matrix-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
-## Matrix
+| [0055-jump-game](https://github.com/chadify/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Dynamic Programming
 |  |
 | ------- |
-| [0073-set-matrix-zeroes](https://github.com/chadify/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
-| [0921-spiral-matrix-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
-## Simulation
+| [0055-jump-game](https://github.com/chadify/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Greedy
 |  |
 | ------- |
-| [0921-spiral-matrix-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/chadify/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/chadify/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0055-jump-game](https://github.com/chadify/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
