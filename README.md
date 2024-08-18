@@ -171,4 +171,12 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
