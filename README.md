@@ -179,9 +179,11 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/chadify/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/chadify/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
