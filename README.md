@@ -170,6 +170,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/chadify/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
