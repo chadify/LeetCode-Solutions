@@ -201,6 +201,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Interactive
 |  |
 | ------- |
@@ -226,4 +227,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+## Greedy
+|  |
+| ------- |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->
