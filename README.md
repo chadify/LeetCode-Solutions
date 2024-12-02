@@ -176,6 +176,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Interactive
 |  |
 | ------- |
@@ -231,6 +233,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -239,4 +242,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Ordered Set
+|  |
+| ------- |
+| [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
