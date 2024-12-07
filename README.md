@@ -175,6 +175,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Dynamic Programming
@@ -205,6 +206,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
