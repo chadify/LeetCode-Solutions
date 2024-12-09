@@ -1,27 +1,22 @@
 class Solution {
     public int findMin(int[] nums) {
+
+        int res = nums[0];
         int l = 0, r = nums.length - 1;
-        
-        // If the array is not rotated, return first element
-        if (nums[l] < nums[r]) 
-            return nums[l];
-        
-        while (l < r) {
-            int m = l + (r - l) / 2;
-            
-            // If mid element is greater than the last element, 
-            // minimum is in the right half
-            if (nums[m] > nums[r]) {
+
+        while (l <= r) {
+            if (nums[l] < nums[r])
+                res = Math.min(res, nums[l]);
+
+            int m = l + (r - l)/2;
+            res = Math.min(res, nums[m]);
+
+            if (nums[m] >= nums[l])
                 l = m + 1;
-            } 
-            // If mid element is less than or equal to the last element, 
-            // minimum is in the left half or mid itself
-            else {
-                r = m;
-            }
+            else
+                r = m - 1;
         }
-        
-        // When l == r, we've found the minimum element
-        return nums[l];
+
+        return res;
     }
 }
