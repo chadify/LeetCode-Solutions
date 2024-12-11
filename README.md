@@ -172,6 +172,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -188,6 +189,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/chadify/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/chadify/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
@@ -200,6 +202,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chadify/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/chadify/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -239,6 +242,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Greedy
@@ -253,4 +257,12 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
