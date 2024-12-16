@@ -185,6 +185,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -238,6 +239,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Greedy
 |  |
