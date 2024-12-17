@@ -187,6 +187,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
@@ -263,6 +264,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Greedy
 |  |
@@ -300,4 +302,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
