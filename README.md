@@ -189,6 +189,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Dynamic Programming
@@ -265,6 +266,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Greedy
 |  |
