@@ -167,6 +167,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -239,6 +240,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -258,6 +260,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
