@@ -172,6 +172,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -252,6 +253,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -267,6 +269,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0015-3sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chadify/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -295,6 +298,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0001-two-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
