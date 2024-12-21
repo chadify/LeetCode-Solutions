@@ -173,6 +173,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/chadify/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -270,6 +271,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0016-3sum-closest](https://github.com/chadify/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/chadify/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
