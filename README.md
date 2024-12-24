@@ -250,6 +250,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -277,6 +278,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -320,6 +322,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -333,4 +336,9 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
