@@ -185,6 +185,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -223,6 +224,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chadify/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/chadify/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -253,6 +255,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chadify/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 ## String
@@ -322,6 +325,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
