@@ -192,6 +192,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -232,6 +233,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0441-arranging-coins](https://github.com/chadify/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
+| [0792-binary-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
