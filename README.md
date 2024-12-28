@@ -177,6 +177,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0056-merge-intervals](https://github.com/chadify/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -272,6 +273,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/chadify/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -315,6 +317,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Ordered Set
 |  |
 | ------- |
@@ -378,4 +381,5 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
