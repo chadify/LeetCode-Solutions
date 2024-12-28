@@ -171,6 +171,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0016-3sum-closest](https://github.com/chadify/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/chadify/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -373,4 +374,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
