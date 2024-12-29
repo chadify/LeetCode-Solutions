@@ -192,6 +192,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -208,6 +209,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -382,4 +384,5 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
