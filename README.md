@@ -278,6 +278,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/chadify/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -286,6 +287,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -375,6 +377,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0326-power-of-three](https://github.com/chadify/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chadify/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
