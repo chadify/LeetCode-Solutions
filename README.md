@@ -222,6 +222,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0367-valid-perfect-square](https://github.com/chadify/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/chadify/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chadify/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
@@ -347,6 +348,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/chadify/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chadify/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -376,6 +378,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0231-power-of-two](https://github.com/chadify/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chadify/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chadify/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
