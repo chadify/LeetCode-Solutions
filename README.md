@@ -280,11 +280,13 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/chadify/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -381,6 +383,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0342-power-of-four](https://github.com/chadify/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/chadify/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
