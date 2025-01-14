@@ -174,6 +174,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/chadify/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/chadify/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -396,6 +397,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/chadify/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
