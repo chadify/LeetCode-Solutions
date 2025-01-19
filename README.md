@@ -180,6 +180,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chadify/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -209,6 +210,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -280,6 +282,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/chadify/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -338,6 +341,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0001-two-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -392,6 +396,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -399,5 +404,10 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/chadify/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
