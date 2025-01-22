@@ -201,6 +201,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
@@ -331,6 +332,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -358,6 +360,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0342-power-of-four](https://github.com/chadify/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chadify/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -406,6 +409,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 ## Trie
 |  |
 | ------- |
