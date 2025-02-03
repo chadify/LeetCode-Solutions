@@ -180,6 +180,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0075-sort-colors](https://github.com/chadify/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -212,6 +213,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
