@@ -209,6 +209,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/chadify/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Dynamic Programming
 |  |
