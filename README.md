@@ -181,6 +181,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -363,6 +364,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/chadify/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
