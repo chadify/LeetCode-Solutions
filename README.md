@@ -182,6 +182,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chadify/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -220,6 +221,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0053-maximum-subarray](https://github.com/chadify/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chadify/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
