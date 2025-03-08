@@ -184,6 +184,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0088-merge-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/chadify/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chadify/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -362,6 +363,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0001-two-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/chadify/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chadify/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -440,4 +442,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
