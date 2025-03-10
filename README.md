@@ -174,6 +174,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/chadify/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/chadify/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chadify/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/chadify/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -233,6 +234,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chadify/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/chadify/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -350,6 +352,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chadify/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
