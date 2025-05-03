@@ -171,6 +171,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0016-3sum-closest](https://github.com/chadify/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/chadify/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0039-combination-sum) |
@@ -252,6 +253,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chadify/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chadify/LeetCode-Solutions/tree/master/0069-sqrtx) |
