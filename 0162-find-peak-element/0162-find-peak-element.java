@@ -1,19 +1,30 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-
-        int start = 0, end = nums.length - 1;
-
-        while (start <= end) {
-            int mid = start + (end - start)/2;
-
-            if (mid > 0 && nums[mid] < nums[mid - 1])
-                end = mid - 1;
-            else if (mid < nums.length - 1 && nums[mid] < nums[mid + 1])
-                start = mid + 1;
-            else 
-                return mid;
+        // Handle single element case
+        if (nums.length == 1) {
+            return 0;
         }
-        return -1;
-
+        
+        int l = 0, r = nums.length - 1;
+        
+        while (l <= r) {
+            int m = l + (r - l)/2;
+            
+            // Check if m is a peak
+            if ((m == 0 || nums[m] > nums[m-1]) && 
+                (m == nums.length-1 || nums[m] > nums[m+1])) {
+                return m;
+            }
+            
+            // Decide which direction to search
+            if (m < nums.length-1 && nums[m] < nums[m+1]) {
+                l = m + 1;
+            }
+            else {
+                r = m - 1;
+            }
+        }
+        
+        return -1; // Shouldn't reach here if valid input
     }
 }
