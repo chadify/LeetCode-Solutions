@@ -208,6 +208,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/chadify/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -271,6 +272,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0374-guess-number-higher-or-lower](https://github.com/chadify/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/chadify/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/chadify/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0792-binary-search) |
