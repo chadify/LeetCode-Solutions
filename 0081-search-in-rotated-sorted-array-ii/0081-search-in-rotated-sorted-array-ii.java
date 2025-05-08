@@ -18,7 +18,7 @@ class Solution {
                 }
             }
             else if (nums[l] > nums[m]) { // right portion
-                if (nums[m] > target || nums[r] < target) {
+                if (nums[m] > target || nums[r] < target /*  && nums[m] < target */) {
                     r = m - 1;
                 }
                 else {
