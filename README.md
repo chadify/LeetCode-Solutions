@@ -325,6 +325,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -458,6 +459,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Union Find
 |  |
@@ -468,9 +470,11 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
