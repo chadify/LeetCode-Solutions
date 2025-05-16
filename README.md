@@ -463,6 +463,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -476,6 +477,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0110-balanced-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +487,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0110-balanced-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
