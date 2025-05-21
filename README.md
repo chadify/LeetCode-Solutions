@@ -354,6 +354,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0436-find-right-interval](https://github.com/chadify/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
@@ -388,6 +389,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0442-find-all-duplicates-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -464,6 +466,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -479,6 +482,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,10 +494,12 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
