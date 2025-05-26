@@ -9,70 +9,78 @@
  */
 class Solution {
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-        List<Integer> list = new ArrayList<>();
-        
-        // Find all nodes at distance k from target
-        findNodesAtDistanceK(root, target, k, list);
-        
-        return list;
+        ArrayList<Integer> ans = new ArrayList<>();
+
+        kDistanceRecur(root, target, k, ans);
+
+        // sort the result
+        Collections.sort(ans);
+
+        return ans;
     }
 
-    private int findNodesAtDistanceK(TreeNode node, TreeNode target, int k, List<Integer> list) {
-        if (node == null) {
+    // Function which finds the nodes at a given
+    // distance from root node
+    static void findNodes(TreeNode root, int dis, ArrayList<Integer> ans) {
+
+        // base case
+        if (root == null)
+            return;
+
+        if (dis == 0) {
+            ans.add(root.val);
+            return;
+        }
+
+        findNodes(root.left, dis - 1, ans);
+        findNodes(root.right, dis - 1, ans);
+    }
+
+    // Function which returns the distance of a node
+    // target node. Returns -1 if target is not found.
+    static int kDistanceRecur(TreeNode root, TreeNode target, int k, ArrayList<Integer> ans) {
+
+        // base case
+        if (root == null)
             return -1;
-        }
-        
-        // If current node is the target
-        if (node == target) {
-            // Find all nodes at distance k in target's subtree
-            helper(node, k, list);
-            return 0; // distance from target to itself
-        }
-        
-        // Check if target is in left subtree
-        int leftDistance = findNodesAtDistanceK(node.left, target, k, list);
-        if (leftDistance != -1) {
-            // Target found in left subtree
-            // Check if current node is at distance k from target
-            if (leftDistance + 1 == k) {
-                list.add(node.val);
-            }
-            // Search in right subtree for nodes at remaining distance
-            else if (leftDistance + 1 < k) {
-                helper(node.right, k - leftDistance - 2, list);
-            }
-            return leftDistance + 1;
-        }
-        
-        // Check if target is in right subtree
-        int rightDistance = findNodesAtDistanceK(node.right, target, k, list);
-        if (rightDistance != -1) {
-            // Target found in right subtree
-            // Check if current node is at distance k from target
-            if (rightDistance + 1 == k) {
-                list.add(node.val);
-            }
-            // Search in left subtree for nodes at remaining distance
-            else if (rightDistance + 1 < k) {
-                helper(node.left, k - rightDistance - 2, list);
-            }
-            return rightDistance + 1;
-        }
-        
-        return -1; // target not found in this subtree
-    }
 
-    private void helper(TreeNode node, int k, List<Integer> list) {
-        if (node == null || k < 0) {
-            return;
+        // If current node is target
+        if (root == target) {
+
+            // Find nodes at distance k from
+            // target node in subtree.
+            findNodes(root, k, ans);
+
+            return 1;
         }
 
-        if (k == 0) {
-            list.add(node.val);
-            return;
+        int left = kDistanceRecur(root.left, target, k, ans);
+
+        // If target node is found in left
+        // subtree, find all nodes at distance
+        // k-left in right subtree.
+        if (left != -1) {
+            if (k - left == 0)
+                ans.add(root.val);
+            else
+                findNodes(root.right, k - left - 1, ans);
+            return left + 1;
         }
 
-        helper(node.left, k - 1, list);
-        helper(node.right, k - 1, list);
+        int right = kDistanceRecur(root.right, target, k, ans);
+
+        // If target node is found in right
+        // subtree, find all nodes at distance
+        // k-right in left subtree.
+        if (right != -1) {
+            if (k - right == 0)
+                ans.add(root.val);
+            else
+                findNodes(root.left, k - right - 1, ans);
+            return right + 1;
+        }
+
+        // If target node is not found
+        return -1;
     }
 }
