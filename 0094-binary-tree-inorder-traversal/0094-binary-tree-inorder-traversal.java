@@ -16,12 +16,12 @@
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
 
-        List<Integer> preorder = new ArrayList<>();
+        List<Integer> inorder = new ArrayList<>();
         TreeNode cur = root;
 
         while (cur != null) {
             if (cur.left == null) {
-                preorder.add(cur.val);
+                inorder.add(cur.val);
                 cur = cur.right;
             }
             else {
@@ -36,12 +36,12 @@ class Solution {
                 }
                 else {
                     prev.right = null;
-                    preorder.add(cur.val);
+                    inorder.add(cur.val);
                     cur = cur.right;
                 }
             }
         }
 
-        return preorder;
+        return inorder;
     }
 }
