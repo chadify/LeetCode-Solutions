@@ -217,6 +217,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/chadify/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
@@ -329,6 +330,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chadify/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -511,6 +513,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0784-insert-into-a-binary-search-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -535,6 +538,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0784-insert-into-a-binary-search-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,4 +557,9 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chadify/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chadify/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
