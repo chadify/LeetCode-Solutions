@@ -317,6 +317,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chadify/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/chadify/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
@@ -472,6 +473,7 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chadify/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Depth-First Search
