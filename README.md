@@ -325,6 +325,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/chadify/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [1078-remove-outermost-parentheses](https://github.com/chadify/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/chadify/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -338,6 +339,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/chadify/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/chadify/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
