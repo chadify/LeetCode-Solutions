@@ -254,6 +254,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0795-k-th-symbol-in-grammar](https://github.com/chadify/LeetCode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chadify/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/chadify/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/chadify/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -325,6 +326,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chadify/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2032-largest-odd-number-in-string](https://github.com/chadify/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chadify/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -372,6 +374,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | ------- |
 | [0179-largest-number](https://github.com/chadify/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2032-largest-odd-number-in-string](https://github.com/chadify/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
