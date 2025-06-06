@@ -339,6 +339,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0144-binary-tree-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/chadify/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/chadify/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/chadify/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/chadify/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -592,6 +593,7 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chadify/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/chadify/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
@@ -600,4 +602,8 @@ ZSBUb3BpY3MgRW5kLS0+
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chadify/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chadify/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
