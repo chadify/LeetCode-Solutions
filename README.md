@@ -210,6 +210,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0485-max-consecutive-ones](https://github.com/chadify/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/chadify/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/chadify/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/chadify/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -239,6 +240,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0198-house-robber](https://github.com/chadify/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -388,6 +390,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0048-rotate-image](https://github.com/chadify/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/chadify/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chadify/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 ## Ordered Set
@@ -576,6 +579,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/chadify/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chadify/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chadify/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
