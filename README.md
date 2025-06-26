@@ -230,6 +230,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chadify/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chadify/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chadify/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chadify/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -294,6 +295,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1185-find-in-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chadify/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chadify/LeetCode-Solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/chadify/LeetCode-Solutions/tree/master/1946-minimum-absolute-sum-difference) |
 ## Interactive
@@ -400,6 +402,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/chadify/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Ordered Set
 |  |
 | ------- |
@@ -524,6 +527,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/chadify/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -532,6 +536,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0547-number-of-provinces](https://github.com/chadify/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/chadify/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/chadify/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -611,6 +616,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/chadify/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -659,4 +665,8 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0207-course-schedule](https://github.com/chadify/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/chadify/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
