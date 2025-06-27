@@ -522,6 +522,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chadify/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/chadify/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/chadify/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/chadify/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/chadify/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -610,6 +611,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chadify/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/chadify/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/chadify/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/chadify/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/chadify/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chadify/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -657,6 +659,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0207-course-schedule](https://github.com/chadify/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chadify/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/chadify/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/chadify/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/chadify/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/chadify/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -668,5 +671,10 @@ ZSBUb3BpY3MgRW5kLS0+
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/chadify/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/chadify/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/chadify/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
