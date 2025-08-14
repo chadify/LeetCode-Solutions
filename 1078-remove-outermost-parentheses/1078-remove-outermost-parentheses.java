@@ -1,24 +1,23 @@
-public class Solution {
+class Solution {
     public String removeOuterParentheses(String s) {
-        StringBuilder result = new StringBuilder();
-        int balance = 0;
-        
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                // Only add '(' if it's not the outermost opening parenthesis
-                if (balance > 0) {
-                    result.append(c);
-                }
-                balance++;
-            } else { // c == ')'
-                balance--;
-                // Only add ')' if it's not the outermost closing parenthesis
-                if (balance > 0) {
-                    result.append(c);
-                }
+       // "" , "(" + A + ")", or A + B
+       // primitive string : (), (((A + B))), so enclosed by brackets entirely, therefore can't be separated
+       // Return s after removing the outermost parentheses of every primitive string in the primitive decomposition of s.
+       // (()())(()) : (A+B) + (C)
+       // read, c
+
+        StringBuilder res = new StringBuilder();
+        int count = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(' && count++ > 0) {
+                res.append(s.charAt(i));
+            }
+            if (s.charAt(i) == ')' && count-- > 1) {
+                res.append(s.charAt(i));
             }
         }
-        
-        return result.toString();
+
+        return res.toString();
     }
 }
