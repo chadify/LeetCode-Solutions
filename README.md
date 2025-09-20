@@ -220,6 +220,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0882-peak-index-in-a-mountain-array](https://github.com/chadify/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/chadify/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/chadify/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0967-minimum-falling-path-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chadify/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chadify/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -245,6 +246,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0472-concatenated-words](https://github.com/chadify/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/chadify/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chadify/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Math
@@ -400,6 +402,7 @@ ZSBUb3BpY3MgRW5kLS0+
 | [0130-surrounded-regions](https://github.com/chadify/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chadify/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/chadify/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/chadify/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/chadify/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chadify/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
